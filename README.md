@@ -5,7 +5,7 @@
 ---
 
 ## **Deskripsi Proyek**
-SiPatif adalah sistem berbasis web yang dirancang untuk mengelola administrasi klinik kesehatan. Sistem ini mendukung pengelolaan data pasien, dokter, jadwal, janji temu, rekam medis, resep obat, dan pembayaran. Sistem ini juga dilengkapi dengan layanan API RESTful untuk memudahkan integrasi dengan aplikasi lain atau mobile apps.
+SiPatif adalah sistem berbasis web yang dirancang untuk mengelola administrasi klinik kesehatan. Sistem ini mendukung pengelolaan data pasien, dokter, jadwal, janji temu, rekam medis, resep obat, dan pembayaran. Sistem ini juga dilengkapi dengan layanan API RESTful untuk memudahkan integrasi dengan aplikasi lain. 
 
 ---
 
@@ -114,9 +114,9 @@ SiPatif adalah sistem berbasis web yang dirancang untuk mengelola administrasi k
 ---
 
 ## **Teknologi yang Digunakan**
-- **Backend:** PHP (Laravel/Lumen) untuk API RESTful.  
-- **Frontend:** HTML, CSS, JavaScript (Vue.js atau React).  
-- **Database:** MariaDB/MySQL.  
+- **Backend:** PHP   
+- **Frontend:** HTML5, CSS, JavaScript. 
+- **Database:** MySQL.  
 - **Version Control:** Git menggunakan GitHub untuk kolaborasi.  
 
 ---
